@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/shuri-reconstruction/precache-manifest.c99216e02619a4205929436fc04a6044.js"
+  "/shuri-reconstruction/precache-manifest.696726d79a695fd37187fd2e07c600d3.js"
 );
 
 self.addEventListener('message', (event) => {
